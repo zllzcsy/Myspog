@@ -58,7 +58,8 @@
 					<username>admin</username>
 					<password>password</password>
 					<server>tomcat7</server> <!-- 此处的名字必须和setting.xml中配置的ID一致 -->
-					<path>Myspog</path> <!-- 此处的名字是项目发布的工程名 -->
+					<path>/Myspog</path> <!-- 此处的名字是项目发布的工程名 -->
+					<port>9090</port>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -81,7 +82,7 @@
 		<pluginRepository>
 			<id>apache.snapshots</id>
 			<name>Apache Snapshots</name>
-			<url> http://repository.apache.org/content/groups/snapshots-group/ </url>
+			<url>http://repository.apache.org/content/groups/snapshots-group/</url>
 			<releases>
 				<enabled>false</enabled>
 			</releases>
