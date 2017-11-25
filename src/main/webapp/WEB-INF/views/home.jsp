@@ -4,9 +4,9 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="short icon" type="image/x-icon" href="favicon.ico" />
-	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<link rel="bookmark" type="image/x-icon" href="favicon.ico" />
+	<link rel="short icon" type="image/x-icon"  href="img/favicon.ico"/>
+	<link rel="icon" type="image/x-icon"  href="img/favicon.ico"/>
+	<link rel="bookmark" type="image/x-icon" href="img/favicon.ico"/>
 	<title>Myspog</title>
 </head>
 <body>
